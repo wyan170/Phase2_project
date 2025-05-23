@@ -2,7 +2,7 @@
 Welcome to Software stream section.
 
 The assessment brief is located in the pdf file.
-[Click here to open it](https://github.com/NZMSA/2025-Phase-2/blob/main/software-development/SoftwareAssessment.pdf](https://github.com/NZMSA/2025-Phase-2/blob/main/software-development/2025%20Phase%202%20-%20Software%20Assessment.pdf))
+[Click here to open it](https://github.com/NZMSA/2025-Phase-2/blob/main/software-development/2025%20Phase%202%20-%20Software%20Assessment.pdf)
 
 ## Getting Started Exemplar
 
