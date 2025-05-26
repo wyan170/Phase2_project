@@ -1,6 +1,6 @@
 # Image Classification Tutorial with Knowledge Distillation
 
-   This repository contains a Jupyter notebook (`part3_guide.ipynb`) that guides you through the process of training image classification models using PyTorch, with a focus on knowledge distillation. The tutorial covers preprocessing a dataset, training a teacher model (ResNet34), training a student model (ResNet18) using knowledge distillation, and making predictions on a test set.
+   This repository contains a Jupyter notebook (`part3.ipynb`) that guides you through the process of training image classification models using PyTorch, with a focus on knowledge distillation. The tutorial covers preprocessing a dataset, training a teacher model (ResNet34), training a student model (ResNet18) using knowledge distillation, and making predictions on a test set.
 
    ## Prerequisites
 
@@ -90,7 +90,8 @@
    ├── src_dataSplit/
    │   └── data_split.ipynb
    ├── MSA.yaml
-   └── README.markdown
+   ├── README.md
+   └── IEEE_Report_Template.docx
    ```
 
    ## Tutorial Steps
@@ -98,6 +99,7 @@
    The notebook is divided into four main steps:
 
    1. **Preprocessing**:
+      
       - Load images and labels from the dataset.
       - Resize images to 224x224 pixels.
       - Convert images to float32 and normalize to [0, 1].
@@ -105,7 +107,7 @@
       - Standardize data using training set statistics.
       - Save preprocessed data as `.pt` files.
       - Load preprocessed data for subsequent steps.
-
+      
    2. **Train the Teacher Model (ResNet34)**:
       - Set hyperparameters (e.g., learning rate, batch size, epochs).
       - Initialize a pretrained ResNet34 model and modify its output layer.
@@ -157,7 +159,97 @@
 
    - Plots of loss and accuracy curves for both ResNet34 and ResNet18.
    - A `submission.csv` file with test set predictions, which should be uploaded to Kaggle for accuracy test.
-   - A comprehensive report.
+   - **A comprehensive technical report**
+
+   ## Submission
+
+   Each student must submit the following:
+
+   ### 1. Notebook Submission (5 marks)
+   - A fully completed and followed good programming practices Jupyter notebook `part3.ipynb`, including:
+      - All code implementations (preprocessing, training, distillation, predictions)
+      - Plots of training/validation performance
+
+   ### 2. Final predictions in `submission.csv` (5 marks)
+
+   ### 3. Report Submission (50 marks)
+- The report must follow **IEEE format**, including:
+  - **Title, Abstract, Sections** properly organized
+  - **Figures and Tables** labeled and referenced
+  - **Reference** formatted according to IEEE citation standards
+  - **Technical writing** with correct grammar and clear explanation
+
+#### Report Contents
+- **Introduction**: 
+
+  - Description: sets the stage for the report by introducing the problem and objectives
+  - Criteria:
+    - Clearly defines the problem
+    - Provides motivation and context for the work
+    - Outlines the structure of the report
+
+- **Literature Review**:
+
+  - Description: Demonstrates understanding of existing work related to knowledge distillation and image classification
+  - Criteria: 
+
+    - Summarizes at least 6 relevant papers or resources
+    - Identifies gaps or limitations in existing work
+
+    - Relates the current assignment to the literature
+
+- **Methodology**: 
+
+  - Description: Details the technical approach, including preprocessing, model training, and distillation process
+  - Criteria: 
+
+    - Describes data preprocessing steps
+
+    - Explains the model architecture and training process
+
+    - Explains the knowledge distillation
+
+    - Justifies the choice of hyperparameters
+
+- **Results**:
+
+  - Description: Presents the outcomes of the project, focusing on model performance
+  - Criteria:
+
+    - Presents accuracy and other relevant metrics
+
+    - Includes appropriate visualizations
+
+    - Compares results with the teacher model
+
+    - Compares computational efficiency
+
+- **Discussion**:
+
+  - Description: Interprets the results and reflects on the understanding of the process and outcomes
+  - Criteria:
+
+    - Interprets the results in the context of the objectives
+
+    - Discusses the implications of the findings
+
+    - Addresses limitations and potential improvements
+
+    - Reflects on the learning experience and understanding of knowledge distillation
+
+- **Conclusion**:
+
+  - Description: Summarizes the work and suggests future directions
+
+  - Criteria:
+
+    - Summarizes the key findings
+    - Suggests future research directions
+
+    - Reflects on the overall contribution and significance of the work
+
+
+
 
    ## Troubleshooting
 
