@@ -23,14 +23,13 @@ To help you analyze and preprocess your datasets, we have split up EDA and data 
     - [3. Clean data](#3-clean-data)
     - [4. Identify correlated variables](#4-identify-correlated-variables)
     - [5. Summary](#5-summary)
-    - [Bonus](#bonus)
+    - [Optional Task](#optional-task)
   - [Submission](#submission)
   - [Marking Criteria](#marking-criteria)
-  - [Tips](#tips)
    
 ### 1. Find all variables and understand them
 
-- Load chosen datasets from the [datasets folder](../0.%20Resources/datasets/) into your notebook and display the first ten instances.
+- Load chosen datasets from the [datasets folder](datasets/) into your notebook and display the first ten instances.
 - Provide key statistical measures such as mean and standard deviation without hardcoding them.
 - Visualize numerical columns through appropriate plots, e.g. bar plots, histograms, box and whisker plots, etc.
 - Convert data types of columns as needed, ensuring all values fed into machine learning models are numerical.
@@ -67,7 +66,7 @@ Write a brief summary that highlights:
 - The steps you've taken to perform EDA and preprocessing in order to prepare your datasets for training and evaluation.
 - Any interesting things you found during EDA and preprocessing that you'd like to mention to showcase the extent of your understanding of the datasets and the data preparation process.
 
-### Bonus
+### Optional Task
 
 If you would like to extend yourself, here are some additional tasks you can do on top of the above. 
   - Perform any aspect of EDA or preprocessing in Power BI.
@@ -117,32 +116,4 @@ To complete this part, please include the following items in your repository:
         - Note that "well-commented" means that you have provided easily understandable explanations for what the results of your code mean or what you have inferred from them.
         - We may penalise notebooks that only contain code and nothing else.
     - Your comments clearly explain the EDA and preprocessing steps you have taken and justify why you took those steps.
-
-
-## Tips
-
-This part relies heavily on the Microsoft Learn modules from Weeks 1, 2, and 6 of Phase 1! In particular, we recommend that you go through the following units, modules, code snippets, and external resources for each task to support your work:
-
-- **Finding all variables and understanding them**
-    - ```python
-        df = pd.read_csv("example.csv")
-        df.head()
-        # Get more information about the dataset columns
-        df.info()
-        ```
-- **Visualizing data**
-    - [Units 4 to 7](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/?ns-enrollment-type=Collection&ns-enrollment-id=n2kyanp2128q50) of Explore and analyze data with Python
-    - All [Week 6 modules](https://github.com/NZMSA/2024-Phase-1?tab=readme-ov-file#week-6) on Power BI
-    - ```python
-        import matplotlib.pyplot as plt
-        ```
-- **Cleaning data**
-    - [Handling categorical features](https://wandb.ai/wandb_fc/kaggle_tutorials/reports/Handling-Categorical-Features-With-Examples--VmlldzoyMTY4NDgz)
-    - [Units 2 and 3](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/?ns-enrollment-type=Collection&ns-enrollment-id=n2kyanp2128q50) of EDA with Python
-    - [Unit 5](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa/?ns-enrollment-type=Collection&ns-enrollment-id=n2kyanp2128q50) of data collection and manipulation
-- **Identifying correlated variables**
-    - [Units 6 and 7](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/?ns-enrollment-type=Collection&ns-enrollment-id=n2kyanp2128q50) of EDA with Python
-    - [How to use a heatmap to plot a correlation matrix](https://towardsdatascience.com/seaborn-heatmap-for-visualising-data-correlations-66cbef09c1fe)
-
-More often than not, data scientists need to go back to their EDA and preprocessing steps after realising they need to analyse or prepare their data better or in a different way. So don't be afraid to revisit this part after you think you've completed it, and write about any changes you made to your EDA and preprocessing steps in your summary!
 
