@@ -13,11 +13,11 @@ Welcome to Phase 2 of the 2025 MSA programme! This year, Phase 2 is designed to 
 The expected workload for Phase 2 of each stream is 3-4 hours per week and builds upon the knowledge from Phase 1 of each stream. Furthermore, placements will be either in Software Development or Data Science, not both. As such, we recommend that you follow one stream of the individual project only to manage your time effectively and build your knowledge and skills within one stream as much as you can to stand out to employers.
 
 Contents:
-- [Azure SQL module](https://github.com/NZMSA/2025-Phase-2#azure-sql-module)
-- [Project Getting Started](https://github.com/NZMSA/2025-Phase-2#project-getting-started)
-- [Submission](https://github.com/NZMSA/2025-Phase-2#submission)
-- [Support](https://github.com/NZMSA/2025-Phase-2#support)
-- [Microsoft Azure Sign-Up Instructions](https://github.com/NZMSA/2025-Phase-2#microsoft-azure-sign-up-instructions)
+- [Azure SQL module](#azure-sql-module)
+- [Project Getting Started](#project-getting-started)
+- [Submission](#submission)
+- [Support](#support)
+- [Microsoft Azure Sign-Up Instructions](#microsoft-azure-sign-up-instructions)
 
 
 ## Azure SQL module
@@ -36,9 +36,7 @@ To sign up for an Azure for Students subscription, you can use the [Microsoft Az
 ## Project Getting Started
 
 1. Ensure that you:
-- Have completed all the Microsoft Learn modules as listed in the [Schedule from Phase 1](https://github.com/NZMSA/2025-Phase-1#schedule) for your chosen stream
 - Have downloaded all the [key tools from Phase 1](https://github.com/NZMSA/2025-Phase-1#key-tools) for your chosen stream
-- Can access the [Microsoft Learn modules from Phase 1](https://github.com/NZMSA/2025-Phase-1#schedule) to refer to as you complete Phase 2
 
 2. Create a repository inside your personal GitHub account to store all your work and clone that repository into your IDE (ignore any other branches, everything you need is in the main branch)
     - In your repository, we recommend that you create a folder for each part of your chosen stream to store your work for each part separately
@@ -52,14 +50,14 @@ To sign up for an Azure for Students subscription, you can use the [Microsoft Az
 
 To complete the technical component of Phase 2 and submit evidence of your completion:
 1. Ensure that you have:
-- Completed the two Azure SQL modules and log in to your Microsoft account and take a full-page screenshot of these two modules (Similar to phase1)
-- Completed all parts of your chosen stream/s by checking that you have included all items in your repository, as stated in the folder for your chosen stream
+- Completed the two Azure SQL modules, log in to your Microsoft account and take a full-page screenshot of these two modules (Similar to phase1)
+- Completed all parts of your chosen stream by checking that you have included all items in your repository, as stated in the folder for your chosen stream
     - Software Development
-        - The submission details are in the SoftwareAssessment.pdf file [Software Development](https://github.com/NZMSA/2025-Phase-2/tree/main/software-development)
+        - The submission details are in the Software Assessment.pdf file [Software Development](https://github.com/NZMSA/2025-Phase-2/blob/main/software-development/2025%20Phase%202%20-%20Software%20Assessment.pdf)
     - Data Science
         - [Analysis and Preprocessing Submission Details](https://github.com/NZMSA/2025-Phase-2/tree/main/data-science/1.%20Analysis%20and%20Preprocessing#submission)
-        - [Training and Evaluation Submission Details](https://github.com/NZMSA/2025-Phase-2/tree/main/data-science/2.%20Training%20and%20Evaluation#submission)
-        - [Deep learning Submission Details](https://github.com/NZMSA/2025-Phase-2/tree/main/data-science/3.%20Microsoft%20Deep#submission)
+        - [Machine Learning Project Submission Details](https://github.com/NZMSA/2025-Phase-2/tree/main/data-science/2.%20Machine%20Learning%20Project#submission)
+        - [Deep Learning Project Submission Details](https://github.com/NZMSA/2025-Phase-2/tree/main/data-science/3.%20Deep%20Learning%20Project#submission)
 - Made your repository/ies and any other links you want to submit public so that they can be accessed by the MSA team for marking
     - You can check that all your links are publicly accessible by opening them in the Incognito/Private mode of your browser
 
@@ -73,9 +71,6 @@ The MSA programme strictly enforces academic integrity and students that do not 
 If you have any questions, comments, or concerns, please contact the MSA team via our:
 - [Discord office hours](https://1drv.ms/x/s!AhUTdgNym7JMoyWIBFfa8IpZIeeS?e=MFUGMK)
     - The MSA team are available in the voice channels on the days and times specified in the link above for students to ask questions directly to the MSA team members that created this year's technical content.
-- [Support section from Phase 1](https://github.com/NZMSA/2025-Phase-1#support)
-
-We recommend that you refer to [Frequently asked questions and answers](https://1drv.ms/w/s!AhUTdgNym7JMnXR2kDiGvhJsfcjo?e=ML2NyC) about the programme before asking a question that may have already been answered in the document above.
 
 ## Microsoft Azure Sign-Up Instructions
 
