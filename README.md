@@ -10,7 +10,7 @@ Welcome to Phase 2 of the 2025 MSA programme! This year, Phase 2 is designed to 
     - This repository represents the entire technical component of Phase 2, which will assess your technical skills
     - Complete this component individually using Phase 1 knowledge + the resources that the MSA team has provided in the folder for each stream
 
-The expected workload for Phase 2 of each stream is 3-4 hours per week and builds upon the knowledge from Phase 1 of each stream. Furthermore, placements will be either in Software Development or Data Science, not both. As such, we recommend that you follow one stream of the individual project only to manage your time effectively and build your knowledge and skills within one stream as much as you can to stand out to employers.
+The expected workload for Phase 2 of each stream is **3–4** hours per week, and it builds upon the knowledge gained from Phase 1 of the same stream. Please follow the stream you selected in Phase 1 and manage your time effectively to further develop your knowledge and skills.
 
 Contents:
 - [Azure SQL module](#azure-sql-module)
@@ -62,23 +62,25 @@ To complete the technical component of Phase 2 and submit evidence of your compl
     - You can check that all your links are publicly accessible by opening them in the Incognito/Private mode of your browser
 
 - Included all files needed to run your code inside your repository so that it's easy for the MSA team to mark your submission
-2. Submit this form by 11:59 pm, Sunday 20 July: [MSA 2025 Phase 2 Submission](https://forms.office.com/r/7FeEeWzHR2)
 
-The MSA programme strictly enforces academic integrity and students that do not submit their own work will first be notified with our concerns, and if your work is determined to be copied from someone/somewhere else and/or insufficiently different from others if you have collaborated or troubleshooted with other parties (including MSA team members and the content created by them in this repository), you may not be invited to any events and activities as part of the non-technical component of Phase 2.
+2. The form will open from **Week 4 (starting June 30, 0:00)** and the **submission deadline is 11:59 pm, Sunday, 20 July**.
+ [MSA 2025 Phase 2 Submission](https://forms.office.com/r/cSEtT0jEb6)
+
+The MSA programme strictly enforces academic integrity and students that do not submit their own work will first be notified with our concerns, and if your work is determined to be copied from someone/somewhere else and/or insufficiently different from others if you have collaborated or troubleshoot with other parties (including MSA team members and the content created by them in this repository), you may not be invited to any events and activities as part of the non-technical component of Phase 2.
 
 ## Support
 
 If you have any questions, comments, or concerns, please contact the MSA team via our:
 - [Discord office hours](https://1drv.ms/x/s!AhUTdgNym7JMoyWIBFfa8IpZIeeS?e=MFUGMK)
-    - The MSA team are available in the voice channels on the days and times specified in the link above for students to ask questions directly to the MSA team members that created this year's technical content.
+    - The MSA team is available in the voice channels on the days and times specified in the link above for students to ask questions directly to the MSA team members that created this year's technical content.
 
 ## Microsoft Azure Sign-Up Instructions
 
-Before starting Phase 2, you will need to sign up for an Azure for Students subscription using your institution email using one of the methods described below. Azure for Students will give you $100 credit and free services to use within 12 months of signing up. After you use your credit, wait until the 12 months are over and sign up again if you’re still a student. You'll get $100 credit and free services just like before.
+Before starting Phase 2, you will need to sign up for an Azure for Students subscription using your institution's email using one of the methods described below. Azure for Students will give you $100 credit and free services to use within 12 months of signing up. After you use your credit, wait until the 12 months are over and sign up again if you’re still a student. You'll get $100 credit and free services just like before.
 
 1. If you **do not have an Azure account** using your institution email:
     -  Go to [Azure for Students](https://azure.microsoft.com/en-us/free/students) and click **Start for free**
-    -  Sign in using your institution email
+    -  Sign in using your institution's email
         - If you are based at the University of Auckland, your university email is already associated with a Microsoft account so do not create a new account using your university email, simply sign in.
         - If you are based at a different institution, check whether your institution has already provided you with a Microsoft account by trying to sign in first (if that doesn't work, create a new account using your institution email)
     - Follow the prompts to verify your academic status
@@ -88,7 +90,7 @@ Before starting Phase 2, you will need to sign up for an Azure for Students subs
     - You will most likely be shown how much credit you have remaining and when your Azure for Students subscription expires if it has not expired yet, or prompted to renew if it has expired.
 
 3. If you have **graduated and your institution no longer allows you to access your institution email** or you are facing issues using your institution email:
-    - Please use a personal email that you can regularly access to sign up for an [Azure free account](https://azure.microsoft.com/en-us/free/free-account-faq). Note that signing up this way means you will not be signing up for an Azure for Students subcription. To avoid incurring costs, we recommend that you only use and create services from the [Free service page](https://portal.azure.com/#blade/Microsoft_Azure_Billing/FreeServicesBlade) in the Azure portal.
+    - Please use a personal email that you can regularly access to sign up for an [Azure free account](https://azure.microsoft.com/en-us/free/free-account-faq). Note that signing up this way means you will not be signing up for an Azure for Students subscription. To avoid incurring costs, we recommend that you only use and create services from the [Free service page](https://portal.azure.com/#blade/Microsoft_Azure_Billing/FreeServicesBlade) in the Azure portal.
 
 After you have completed the steps above, you should be directed to the [Education page of the Azure portal](https://portal.azure.com/?Microsoft_Azure_Education_correlationId=e940c73ae3ec44b1852cb836987cef3e#view/Microsoft_Azure_Education/EducationMenuBlade/~/overview) - this is where you can see how much credit you have remaining, how many days until your Azure for Students subscription expires, and other helpful resources.
 
