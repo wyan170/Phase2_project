@@ -23,9 +23,9 @@ To complete this part, please include the following item in your repository:
 ## Marking Criteria
 
 1. **Load and check the dataset**
-    - Loaded the dataset in ```part2_submission.ipynb```, checked all the variables(features) in dataset
+    - Loaded the dataset in `part2_submission.ipynb`, checked all the variables(features) in dataset
 2. **Clean dataset, drop variables**
-    - Shown the correlation between variables and ```MinTemp```
+    - Shown the correlation between variables and `MinTemp`
     - Dropped irrelevant and highly dependent variables
 3. **Select the feature(s) for the model and explain**
     - Relevant features are selected with a clear and well-supported explanation
