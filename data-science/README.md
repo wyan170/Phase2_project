@@ -1,4 +1,4 @@
-# 2025-Phase-2 - Data Science
+# 2025 Phase 2 - Data Science
 Welcome to Phase 2 of the 2025 MSA Data Science stream. This phase is divided into three 3 parts:
 
 1. [Analysis and Preprocessing](1.%20Analysis%20and%20Preprocessing)
