@@ -1,6 +1,6 @@
 # Part 2 - Weather Data Analysis
 
-This assignment involves exploring a real-world weather dataset to understand the relationships between different weather variables and to **predict the maximum daily temperature** using the relevant feature(s).
+This assignment involves exploring a real-world weather dataset to understand the relationships between different weather variables and to **predict the minimum daily temperature** using the relevant feature(s).
 
 ## Files
 
@@ -10,7 +10,7 @@ This assignment involves exploring a real-world weather dataset to understand th
 ## Objectives
 
 - Explore and analyze the relationship between weather variables.
-- Train and evaluate a model to predicts `MaxTemp`
+- Train and evaluate a model to predicts `MinTemp`
 
 ## Submission
 
