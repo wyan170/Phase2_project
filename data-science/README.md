@@ -22,7 +22,7 @@ For help, refer to inline notebook instructions or the `README.md` files within 
 
 ## Part 2 – Machine Learning Project (20%)
 
-- **Objective**: Build a regression model to predict **`MinTemp`** using a real-world weather dataset.
+- **Objective**: Build a model to predict **`MinTemp`** using a real-world weather dataset.
 - **Deliverables**:
     - `part2_submission.ipynb`
 
