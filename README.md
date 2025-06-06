@@ -70,9 +70,15 @@ The MSA programme strictly enforces academic integrity and students that do not 
 
 ## Support
 
-If you have any questions, comments, or concerns, please contact the MSA team via our:
-- [Discord office hours](https://1drv.ms/x/s!AhUTdgNym7JMoyWIBFfa8IpZIeeS?e=MFUGMK)
-    - The MSA team is available in the voice channels on the days and times specified in the link above for students to ask questions directly to the MSA team members that created this year's technical content.
+1. If you have any questions, comments, or concerns, please contact the MSA team via **Discord Channel**.
+
+2. We will be running regular **Office Hours** to support you during Phase 2.
+   
+    - Time: Friday of Week 3 - Week 6, 8:00–9:00 PM 
+    - Dates: June 27, July 4, July 11 and July 18
+    
+    During these sessions, there will be two team members available from both the Software Development (SD) and Data Science (DS) teams.
+    They will answer questions in the **help-software** and **help-data voice channels** on Discord.
 
 ## Microsoft Azure Sign-Up Instructions
 
