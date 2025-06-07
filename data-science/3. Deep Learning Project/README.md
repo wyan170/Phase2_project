@@ -175,11 +175,11 @@
       - The first column, `file_name`, indicates the name of the image file (e.g., "0.jpg", "1.jpg").
       - The second column, label, represents the corresponding class label for the image (e.g., "sunglasses" "convertible_car").
      - For example:
-     ```
-     file_name,label
-     0.jpg,sunglasses
-     1.jpg,convertible_car
-     ```
+        ```
+        file_name,label
+        0.jpg,sunglasses
+        1.jpg,convertible_car
+        ```
 
    ### 3. Report Submission (50 marks)
 - The report must follow **IEEE format**, including:
