@@ -179,7 +179,6 @@
      file_name,label
      0.jpg,sunglasses
      1.jpg,convertible_car
-
      ```
 
    ### 3. Report Submission (50 marks)
